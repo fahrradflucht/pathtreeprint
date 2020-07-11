@@ -2,6 +2,11 @@
 
 > CLI utility to print a `tree(1)` like graph from a list of file paths.
 
+## Deprecation Notice
+
+Around the same time I wrote this utility, [`tree` got a `--fromfile` option](http://mama.indstate.edu/users/ice/tree/changes.html).
+This makes this project obsolete.
+
 ## Table of Contents
 
 - [Install](#install)
